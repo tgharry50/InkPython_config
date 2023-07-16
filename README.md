@@ -18,3 +18,4 @@ for item in directory:
 #####
 TO TRY:
 automatic _ROI SET
+ 
